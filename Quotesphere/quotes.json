@@ -1,0 +1,12 @@
+[
+  { "quote": "Code is like humor. When you have to explain it, it’s bad.", "author": "Cory House", "category": "programming" },
+  { "quote": "First, solve the problem. Then, write the code.", "author": "John Johnson", "category": "programming" },
+  { "quote": "Experience is the name everyone gives to their mistakes.", "author": "Oscar Wilde", "category": "inspiration" },
+  { "quote": "In order to be irreplaceable, one must always be different.", "author": "Coco Chanel", "category": "inspiration" },
+  { "quote": "Before software can be reusable it first has to be usable.", "author": "Ralph Johnson", "category": "programming" },
+  { "quote": "Talk is cheap. Show me the code.", "author": "Linus Torvalds", "category": "programming" },
+  { "quote": "I'm not lazy, I'm on energy-saving mode.", "author": "Anonymous", "category": "humor" },
+  { "quote": "Why do Java developers wear glasses? Because they don't see sharp.", "author": "Anonymous", "category": "humor" },
+  { "quote": "It always seems impossible until it’s done.", "author": "Nelson Mandela", "category": "inspiration" },
+  { "quote": "Simplicity is the soul of efficiency.", "author": "Austin Freeman", "category": "inspiration" }
+]
